@@ -1,5 +1,4 @@
-//Conversión de Infijo a Postfijo usando pila
-//Codigo:
+
 //Conversión de notación Infija a Postfija mediante uso de pilas
 package proyectopila;
 
@@ -93,5 +92,6 @@ public class ProyectoPila {
     if (op.equals("(")) prf = 1;
     return prf;
   }
+ 
 }
 
